@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 25a08d6fe88182047bc6f0587d360f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9187916324565467180
+    second: Vyre_Walk_North_0
+  - first:
+      213: -8310405085814957280
+    second: Vyre_Walk_North_1
+  - first:
+      213: -1448825770270135931
+    second: Vyre_Walk_North_2
+  - first:
+      213: -6699725003690876728
+    second: Vyre_Walk_North_3
+  - first:
+      213: -3571004201252563933
+    second: Vyre_Walk_North_4
+  - first:
+      213: 9131101325747181691
+    second: Vyre_Walk_North_5
+  - first:
+      213: 4369095420914224466
+    second: Vyre_Walk_North_6
+  - first:
+      213: -6516204887552264283
+    second: Vyre_Walk_North_7
+  - first:
+      213: 502542401009695269
+    second: Vyre_Walk_North_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vyre_Walk_North_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 691
+        width: 162
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df334058c6fd7080800000000000000
+      internalID: -9187916324565467180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 693
+        width: 163
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b5668da928bac80800000000000000
+      internalID: -8310405085814957280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 692
+        width: 166
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ed9d53acb4ebe0800000000000000
+      internalID: -1448825770270135931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 351
+        width: 159
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e3361b9bc503a0800000000000000
+      internalID: -6699725003690876728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 351
+        width: 159
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d9e4599e317ec0800000000000000
+      internalID: -3571004201252563933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 350
+        width: 161
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785241f64038be70800000000000000
+      internalID: 9131101325747181691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 159
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc069032522ac30800000000000000
+      internalID: 4369095420914224466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 16
+        width: 158
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a778c9dd2ac195a0800000000000000
+      internalID: -6516204887552264283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vyre_Walk_North_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 16
+        width: 162
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a31c0b6a369f600800000000000000
+      internalID: 502542401009695269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vyre_Walk_North_0: -9187916324565467180
+      Vyre_Walk_North_1: -8310405085814957280
+      Vyre_Walk_North_2: -1448825770270135931
+      Vyre_Walk_North_3: -6699725003690876728
+      Vyre_Walk_North_4: -3571004201252563933
+      Vyre_Walk_North_5: 9131101325747181691
+      Vyre_Walk_North_6: 4369095420914224466
+      Vyre_Walk_North_7: -6516204887552264283
+      Vyre_Walk_North_8: 502542401009695269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

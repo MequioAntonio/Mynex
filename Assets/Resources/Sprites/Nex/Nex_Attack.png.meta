@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 3757dc8e437bca643a0951257169d07a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3702456798678551907
+    second: Nex_Attack_0
+  - first:
+      213: -6459191216893682760
+    second: Nex_Attack_1
+  - first:
+      213: 1835817394864462047
+    second: Nex_Attack_2
+  - first:
+      213: 8442574897902195283
+    second: Nex_Attack_3
+  - first:
+      213: 3138331171413826640
+    second: Nex_Attack_4
+  - first:
+      213: 6395979457793352836
+    second: Nex_Attack_5
+  - first:
+      213: 3207864283312607629
+    second: Nex_Attack_6
+  - first:
+      213: 7473077161311854833
+    second: Nex_Attack_7
+  - first:
+      213: 7625858563870759972
+    second: Nex_Attack_8
+  - first:
+      213: -8238698587775508185
+    second: Nex_Attack_9
+  - first:
+      213: -2264966934287110395
+    second: Nex_Attack_10
+  - first:
+      213: -1589119856948752434
+    second: Nex_Attack_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nex_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 228
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92f886782b3e9cc0800000000000000
+      internalID: -3702456798678551907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nex_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 348
+        width: 259
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9abc7fc75c56a0800000000000000
+      internalID: -6459191216893682760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nex_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 341
+        width: 310
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8116da1322a7910800000000000000
+      internalID: 1835817394864462047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nex_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 315
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e020f8434aad80800000000000000
+      internalID: -8238698587775508185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nex_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 339
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfcc0dd8ef42f9e0800000000000000
+      internalID: -1589119856948752434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f0bec7d93281d946be4a827eb4fcd37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nex_Attack_0: -3702456798678551907
+      Nex_Attack_1: -6459191216893682760
+      Nex_Attack_10: -2264966934287110395
+      Nex_Attack_11: -1589119856948752434
+      Nex_Attack_2: 1835817394864462047
+      Nex_Attack_3: 8442574897902195283
+      Nex_Attack_4: 3138331171413826640
+      Nex_Attack_5: 6395979457793352836
+      Nex_Attack_6: 3207864283312607629
+      Nex_Attack_7: 7473077161311854833
+      Nex_Attack_8: 7625858563870759972
+      Nex_Attack_9: -8238698587775508185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

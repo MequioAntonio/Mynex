@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: 734bb6ef75b46f74386af6bc588f1827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -411120230174995748
+    second: TotemSlot_0
+  - first:
+      213: 3593024120544140422
+    second: TotemSlot_1
+  - first:
+      213: 5848077904224905542
+    second: TotemSlot_2
+  - first:
+      213: 412549150642584988
+    second: TotemSlot_3
+  - first:
+      213: 7403922177802536726
+    second: TotemSlot_4
+  - first:
+      213: -2449083695235678839
+    second: TotemSlot_5
+  - first:
+      213: -6806329427183765039
+    second: TotemSlot_6
+  - first:
+      213: -4284945205712203093
+    second: TotemSlot_7
+  - first:
+      213: 7641932687218345113
+    second: TotemSlot_8
+  - first:
+      213: -302896043055402433
+    second: TotemSlot_9
+  - first:
+      213: 5566542341716121969
+    second: TotemSlot_10
+  - first:
+      213: 1434840802824864542
+    second: TotemSlot_11
+  - first:
+      213: 3904695370102125677
+    second: TotemSlot_12
+  - first:
+      213: -1477663728969063791
+    second: TotemSlot_13
+  - first:
+      213: 1506672331373467584
+    second: TotemSlot_14
+  - first:
+      213: -17147823374463232
+    second: TotemSlot_15
+  - first:
+      213: 6198756691218784243
+    second: TotemSlot_16
+  - first:
+      213: 257159338453445440
+    second: TotemSlot_17
+  - first:
+      213: 770953393144555636
+    second: TotemSlot_18
+  - first:
+      213: 3979959980585089857
+    second: TotemSlot_19
+  - first:
+      213: -8717457067225027736
+    second: TotemSlot_20
+  - first:
+      213: 7129474001414982068
+    second: TotemSlot_21
+  - first:
+      213: -515054881378910381
+    second: TotemSlot_22
+  - first:
+      213: -2963081767110893767
+    second: TotemSlot_23
+  - first:
+      213: 4644921673633535309
+    second: TotemSlot_24
+  - first:
+      213: 1759761360557399237
+    second: TotemSlot_25
+  - first:
+      213: 1768056376342063948
+    second: TotemSlot_26
+  - first:
+      213: 2566654414455606370
+    second: TotemSlot_27
+  - first:
+      213: -1871994046968449614
+    second: TotemSlot_28
+  - first:
+      213: -5217092362520060753
+    second: TotemSlot_29
+  - first:
+      213: 8243306555971617660
+    second: TotemSlot_30
+  - first:
+      213: -1476060762766943892
+    second: TotemSlot_31
+  - first:
+      213: -4149434331431099076
+    second: TotemSlot_32
+  - first:
+      213: -6554324671801915226
+    second: TotemSlot_33
+  - first:
+      213: 7217107653400494921
+    second: TotemSlot_34
+  - first:
+      213: 4640466675171869254
+    second: TotemSlot_35
+  - first:
+      213: 7044438456836575579
+    second: TotemSlot_36
+  - first:
+      213: 6602887558821922595
+    second: TotemSlot_37
+  - first:
+      213: 494342314248542751
+    second: TotemSlot_38
+  - first:
+      213: 7913271314853139303
+    second: TotemSlot_39
+  - first:
+      213: 6472050541568762652
+    second: TotemSlot_40
+  - first:
+      213: -8544067741940004370
+    second: TotemSlot_41
+  - first:
+      213: 1434014957197817842
+    second: TotemSlot_42
+  - first:
+      213: 3101271640959827754
+    second: TotemSlot_43
+  - first:
+      213: -2264296573615340036
+    second: TotemSlot_44
+  - first:
+      213: -3607054527791565005
+    second: TotemSlot_45
+  - first:
+      213: -6767544304445028700
+    second: TotemSlot_46
+  - first:
+      213: 4580601248056366521
+    second: TotemSlot_47
+  - first:
+      213: 7386041940276168719
+    second: TotemSlot_48
+  - first:
+      213: -9193885038439973637
+    second: TotemSlot_49
+  - first:
+      213: -1405646033006303796
+    second: TotemSlot_50
+  - first:
+      213: 7540502456408829925
+    second: TotemSlot_51
+  - first:
+      213: 8088159961526175790
+    second: TotemSlot_52
+  - first:
+      213: -8044228793188467496
+    second: TotemSlot_53
+  - first:
+      213: 8548993159592765601
+    second: TotemSlot_54
+  - first:
+      213: -2415259508962498041
+    second: TotemSlot_55
+  - first:
+      213: -323650842888453382
+    second: TotemSlot_56
+  - first:
+      213: -1224596511940527374
+    second: TotemSlot_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TotemSlot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda417034586b4af0800000000000000
+      internalID: -411120230174995748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9176a66cfcd130800000000000000
+      internalID: 3593024120544140422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_2
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 256
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e2249edb882150800000000000000
+      internalID: 5848077904224905542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_3
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db078444ba9b500800000000000000
+      internalID: 412549150642584988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 244
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178e883ef300c660800000000000000
+      internalID: 7403922177802536726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_5
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db640ea5b130ed0800000000000000
+      internalID: -2449083695235678839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_6
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 235
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97c6c827f0b81a0800000000000000
+      internalID: -6806329427183765039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 239
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d28bb901d884c0800000000000000
+      internalID: -4284945205712203093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_8
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 222
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99488135a499d0a60800000000000000
+      internalID: 7641932687218345113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 230
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32bfc557a5ebcbf0800000000000000
+      internalID: -302896043055402433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_10
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 230
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179192954c4504d40800000000000000
+      internalID: 5566542341716121969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_11
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 220
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13cc99ab1499e310800000000000000
+      internalID: 1434840802824864542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_12
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 212
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64bc0b40c3403630800000000000000
+      internalID: 3904695370102125677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_13
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 218
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e151eaa84e7be0800000000000000
+      internalID: -1477663728969063791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_14
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 213
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7dc60b086c8e410800000000000000
+      internalID: 1506672331373467584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_15
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 211
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f081f352413cff0800000000000000
+      internalID: -17147823374463232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_16
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 202
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffdb254e58660650800000000000000
+      internalID: 6198756691218784243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_17
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b213b4e0d919300800000000000000
+      internalID: 257159338453445440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_18
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 181
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47863c0c60af2ba00800000000000000
+      internalID: 770953393144555636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_19
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7b0ff388ab3730800000000000000
+      internalID: 3979959980585089857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_20
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 163
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b65530cfe550780800000000000000
+      internalID: -8717457067225027736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_21
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 173
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b909b9a4daf0f260800000000000000
+      internalID: 7129474001414982068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_22
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f349370582ad8f0800000000000000
+      internalID: -515054881378910381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_23
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1be6f4d401e6d0800000000000000
+      internalID: -2963081767110893767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_24
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 159
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45907ef6a3167040800000000000000
+      internalID: 4644921673633535309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_25
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc5b7142adeb6810800000000000000
+      internalID: 1759761360557399237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 127
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4babbe18e5698810800000000000000
+      internalID: 1768056376342063948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_27
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c80da57969e9320800000000000000
+      internalID: 2566654414455606370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 92
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5bcc025575506e0800000000000000
+      internalID: -1871994046968449614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 88
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac969b332a2997b0800000000000000
+      internalID: -5217092362520060753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 87
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73465343ab166270800000000000000
+      internalID: 8243306555971617660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 85
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6952688e8af38be0800000000000000
+      internalID: -1476060762766943892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_32
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352d30d57f3a66c0800000000000000
+      internalID: -4149434331431099076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 94
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a80ba2ff6c5a05a0800000000000000
+      internalID: -6554324671801915226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_34
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 78
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94380b24c21582460800000000000000
+      internalID: 7217107653400494921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_35
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 90
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64248a5dadf366040800000000000000
+      internalID: 4640466675171869254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_36
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 87
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5158d5147fd2c160800000000000000
+      internalID: 7044438456836575579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 77
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3274d6b404b22ab50800000000000000
+      internalID: 6602887558821922595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9a3637b14cd600800000000000000
+      internalID: 494342314248542751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_39
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631c15a55691dd60800000000000000
+      internalID: 7913271314853139303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_40
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 84
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a49a5da751d950800000000000000
+      internalID: 6472050541568762652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_41
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9cac838af5d6980800000000000000
+      internalID: -8544067741940004370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f77f5e7105a6e310800000000000000
+      internalID: 1434014957197817842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_43
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 90
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f376f402ee90b20800000000000000
+      internalID: 3101271640959827754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 86
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50687534a9390e0800000000000000
+      internalID: -2264296573615340036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_45
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 84
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f489940b21fdc0800000000000000
+      internalID: -3607054527791565005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 94
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a606d3af4ad412a0800000000000000
+      internalID: -6767544304445028700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_47
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 83
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55c18e090919f30800000000000000
+      internalID: 4580601248056366521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_48
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084c42030e708660800000000000000
+      internalID: 7386041940276168719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 91
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcb102d442c86080800000000000000
+      internalID: -9193885038439973637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_50
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 87
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e8b261642e7ce0800000000000000
+      internalID: -1405646033006303796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 84
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6536680f35a860800000000000000
+      internalID: 7540502456408829925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_52
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280e41d1aaee3070800000000000000
+      internalID: 8088159961526175790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_53
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc380268882d5090800000000000000
+      internalID: -8044228793188467496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_54
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 78
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a865c0fbff14a670800000000000000
+      internalID: 8548993159592765601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_55
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae7efe5464b7ed0800000000000000
+      internalID: -2415259508962498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_56
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 84
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2c06ee549228bf0800000000000000
+      internalID: -323650842888453382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TotemSlot_57
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 82
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3a98e5fb510fe0800000000000000
+      internalID: -1224596511940527374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TotemSlot_0: -411120230174995748
+      TotemSlot_1: 3593024120544140422
+      TotemSlot_10: 5566542341716121969
+      TotemSlot_11: 1434840802824864542
+      TotemSlot_12: 3904695370102125677
+      TotemSlot_13: -1477663728969063791
+      TotemSlot_14: 1506672331373467584
+      TotemSlot_15: -17147823374463232
+      TotemSlot_16: 6198756691218784243
+      TotemSlot_17: 257159338453445440
+      TotemSlot_18: 770953393144555636
+      TotemSlot_19: 3979959980585089857
+      TotemSlot_2: 5848077904224905542
+      TotemSlot_20: -8717457067225027736
+      TotemSlot_21: 7129474001414982068
+      TotemSlot_22: -515054881378910381
+      TotemSlot_23: -2963081767110893767
+      TotemSlot_24: 4644921673633535309
+      TotemSlot_25: 1759761360557399237
+      TotemSlot_26: 1768056376342063948
+      TotemSlot_27: 2566654414455606370
+      TotemSlot_28: -1871994046968449614
+      TotemSlot_29: -5217092362520060753
+      TotemSlot_3: 412549150642584988
+      TotemSlot_30: 8243306555971617660
+      TotemSlot_31: -1476060762766943892
+      TotemSlot_32: -4149434331431099076
+      TotemSlot_33: -6554324671801915226
+      TotemSlot_34: 7217107653400494921
+      TotemSlot_35: 4640466675171869254
+      TotemSlot_36: 7044438456836575579
+      TotemSlot_37: 6602887558821922595
+      TotemSlot_38: 494342314248542751
+      TotemSlot_39: 7913271314853139303
+      TotemSlot_4: 7403922177802536726
+      TotemSlot_40: 6472050541568762652
+      TotemSlot_41: -8544067741940004370
+      TotemSlot_42: 1434014957197817842
+      TotemSlot_43: 3101271640959827754
+      TotemSlot_44: -2264296573615340036
+      TotemSlot_45: -3607054527791565005
+      TotemSlot_46: -6767544304445028700
+      TotemSlot_47: 4580601248056366521
+      TotemSlot_48: 7386041940276168719
+      TotemSlot_49: -9193885038439973637
+      TotemSlot_5: -2449083695235678839
+      TotemSlot_50: -1405646033006303796
+      TotemSlot_51: 7540502456408829925
+      TotemSlot_52: 8088159961526175790
+      TotemSlot_53: -8044228793188467496
+      TotemSlot_54: 8548993159592765601
+      TotemSlot_55: -2415259508962498041
+      TotemSlot_56: -323650842888453382
+      TotemSlot_57: -1224596511940527374
+      TotemSlot_6: -6806329427183765039
+      TotemSlot_7: -4284945205712203093
+      TotemSlot_8: 7641932687218345113
+      TotemSlot_9: -302896043055402433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

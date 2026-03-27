@@ -1,0 +1,3770 @@
+fileFormatVersion: 2
+guid: 21d2bd4f7de20fd4ca3f3ba0e1930fa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4080134576296341058
+    second: Stock Logo_0
+  - first:
+      213: 5970539533775455272
+    second: Stock Logo_1
+  - first:
+      213: 1974815395298011203
+    second: Stock Logo_2
+  - first:
+      213: 122534827942490343
+    second: Stock Logo_3
+  - first:
+      213: 5057935749136682932
+    second: Stock Logo_4
+  - first:
+      213: 4142793963587633141
+    second: Stock Logo_5
+  - first:
+      213: -5894918395439980521
+    second: Stock Logo_6
+  - first:
+      213: 3607586711751952834
+    second: Stock Logo_7
+  - first:
+      213: -4138901381076009010
+    second: Stock Logo_8
+  - first:
+      213: 4146593693689662285
+    second: Stock Logo_9
+  - first:
+      213: 281636877455007139
+    second: Stock Logo_10
+  - first:
+      213: -3613311242272306661
+    second: Stock Logo_11
+  - first:
+      213: -2772864490742117725
+    second: Stock Logo_12
+  - first:
+      213: 4035844234554240945
+    second: Stock Logo_13
+  - first:
+      213: 4087289409018124664
+    second: Stock Logo_14
+  - first:
+      213: -45180227805039417
+    second: Stock Logo_15
+  - first:
+      213: 6789382199402888797
+    second: Stock Logo_16
+  - first:
+      213: 5735435572608557602
+    second: Stock Logo_17
+  - first:
+      213: 3991304182304717617
+    second: Stock Logo_18
+  - first:
+      213: 5621957008581022897
+    second: Stock Logo_19
+  - first:
+      213: 6281059039330250253
+    second: Stock Logo_20
+  - first:
+      213: 1207861267847128885
+    second: Stock Logo_21
+  - first:
+      213: 780780867166648626
+    second: Stock Logo_22
+  - first:
+      213: 192638513575205534
+    second: Stock Logo_23
+  - first:
+      213: -6615650087209234352
+    second: Stock Logo_24
+  - first:
+      213: -6903212649160944349
+    second: Stock Logo_25
+  - first:
+      213: -5216733673295976324
+    second: Stock Logo_26
+  - first:
+      213: -4798202841847661267
+    second: Stock Logo_27
+  - first:
+      213: 9061688664639135136
+    second: Stock Logo_28
+  - first:
+      213: 5114299535635366450
+    second: Stock Logo_29
+  - first:
+      213: 8499146418834299463
+    second: Stock Logo_30
+  - first:
+      213: -7011671449012996464
+    second: Stock Logo_31
+  - first:
+      213: 821024120756451856
+    second: Stock Logo_32
+  - first:
+      213: -2793702778847636639
+    second: Stock Logo_33
+  - first:
+      213: -6736580802433492837
+    second: Stock Logo_34
+  - first:
+      213: -850214167279047456
+    second: Stock Logo_35
+  - first:
+      213: -29144093933412675
+    second: Stock Logo_36
+  - first:
+      213: -8149359879326111301
+    second: Stock Logo_37
+  - first:
+      213: 6686830009008653223
+    second: Stock Logo_38
+  - first:
+      213: 6046231305608045437
+    second: Stock Logo_39
+  - first:
+      213: -4568757128207775714
+    second: Stock Logo_40
+  - first:
+      213: -2126917226937196414
+    second: Stock Logo_41
+  - first:
+      213: 462207075470544474
+    second: Stock Logo_42
+  - first:
+      213: 2710573576119117080
+    second: Stock Logo_43
+  - first:
+      213: 2628446264432373573
+    second: Stock Logo_44
+  - first:
+      213: -4808666951645918400
+    second: Stock Logo_45
+  - first:
+      213: 3395767457801265688
+    second: Stock Logo_46
+  - first:
+      213: 3310519844209217627
+    second: Stock Logo_47
+  - first:
+      213: -20559596834948049
+    second: Stock Logo_48
+  - first:
+      213: 5122396220834218052
+    second: Stock Logo_49
+  - first:
+      213: 8845653281985018922
+    second: Stock Logo_50
+  - first:
+      213: -8263651690305057595
+    second: Stock Logo_51
+  - first:
+      213: -2611417313679350369
+    second: Stock Logo_52
+  - first:
+      213: 3154775980595333736
+    second: Stock Logo_53
+  - first:
+      213: 9130606517382146884
+    second: Stock Logo_54
+  - first:
+      213: 776325075573032621
+    second: Stock Logo_55
+  - first:
+      213: -4921648900585658728
+    second: Stock Logo_56
+  - first:
+      213: 1424660185764576720
+    second: Stock Logo_57
+  - first:
+      213: 3917967991181603104
+    second: Stock Logo_58
+  - first:
+      213: -6465091231000003542
+    second: Stock Logo_59
+  - first:
+      213: -6815993853477057427
+    second: Stock Logo_60
+  - first:
+      213: -493310433385854214
+    second: Stock Logo_61
+  - first:
+      213: -570732668684543414
+    second: Stock Logo_62
+  - first:
+      213: -3573198679588072935
+    second: Stock Logo_63
+  - first:
+      213: 8455209182384666455
+    second: Stock Logo_64
+  - first:
+      213: 1370535203014459264
+    second: Stock Logo_65
+  - first:
+      213: -390234441649938332
+    second: Stock Logo_66
+  - first:
+      213: -4774793165191780683
+    second: Stock Logo_67
+  - first:
+      213: -9203872695087833529
+    second: Stock Logo_68
+  - first:
+      213: 1475543860235041739
+    second: Stock Logo_69
+  - first:
+      213: 1544221431517043229
+    second: Stock Logo_70
+  - first:
+      213: -6922775698064717164
+    second: Stock Logo_71
+  - first:
+      213: 3196362977738300420
+    second: Stock Logo_72
+  - first:
+      213: -1163774557961323540
+    second: Stock Logo_73
+  - first:
+      213: 63626334528401278
+    second: Stock Logo_74
+  - first:
+      213: -5340376501813070420
+    second: Stock Logo_75
+  - first:
+      213: -1543997948581631625
+    second: Stock Logo_76
+  - first:
+      213: -4884789336988503617
+    second: Stock Logo_77
+  - first:
+      213: -3166688977630521264
+    second: Stock Logo_78
+  - first:
+      213: 60352380514063201
+    second: Stock Logo_79
+  - first:
+      213: -4491578441086747990
+    second: Stock Logo_80
+  - first:
+      213: -4009735412450355911
+    second: Stock Logo_81
+  - first:
+      213: 7818079834284820173
+    second: Stock Logo_82
+  - first:
+      213: 586713770119659621
+    second: Stock Logo_83
+  - first:
+      213: -8188037212094431974
+    second: Stock Logo_84
+  - first:
+      213: -4515586052355378977
+    second: Stock Logo_85
+  - first:
+      213: -8294263314333641498
+    second: Stock Logo_86
+  - first:
+      213: 5123742169563120259
+    second: Stock Logo_87
+  - first:
+      213: -6923284620975427748
+    second: Stock Logo_88
+  - first:
+      213: -5356253997242479769
+    second: Stock Logo_89
+  - first:
+      213: 6769774871621751021
+    second: Stock Logo_90
+  - first:
+      213: -6296622303769377662
+    second: Stock Logo_91
+  - first:
+      213: 4449872366353666162
+    second: Stock Logo_92
+  - first:
+      213: -1069155935813738282
+    second: Stock Logo_93
+  - first:
+      213: 6819114177321614630
+    second: Stock Logo_94
+  - first:
+      213: 5387031741359537338
+    second: Stock Logo_95
+  - first:
+      213: 6666618219160022716
+    second: Stock Logo_96
+  - first:
+      213: 3817695297534386297
+    second: Stock Logo_97
+  - first:
+      213: 1606101394130119776
+    second: Stock Logo_98
+  - first:
+      213: 3068909056847992172
+    second: Stock Logo_99
+  - first:
+      213: 5343971014875049422
+    second: Stock Logo_100
+  - first:
+      213: 5837574447006015860
+    second: Stock Logo_101
+  - first:
+      213: 4091390482019776962
+    second: Stock Logo_102
+  - first:
+      213: 824940451184679138
+    second: Stock Logo_103
+  - first:
+      213: -1053384521462753463
+    second: Stock Logo_104
+  - first:
+      213: 4176362674335359598
+    second: Stock Logo_105
+  - first:
+      213: -7707159477508348694
+    second: Stock Logo_106
+  - first:
+      213: 8868256746482318107
+    second: Stock Logo_107
+  - first:
+      213: 5912468110867847497
+    second: Stock Logo_108
+  - first:
+      213: 4664329926610638886
+    second: Stock Logo_109
+  - first:
+      213: -4260685355231622331
+    second: Stock Logo_110
+  - first:
+      213: -5467990346962756973
+    second: Stock Logo_111
+  - first:
+      213: -4899516696449600734
+    second: Stock Logo_112
+  - first:
+      213: 1434005298943709162
+    second: Stock Logo_113
+  - first:
+      213: 784795466537519211
+    second: Stock Logo_114
+  - first:
+      213: 1840287624524460907
+    second: Stock Logo_115
+  - first:
+      213: -5087598073354100224
+    second: Stock Logo_116
+  - first:
+      213: 1483286404698284640
+    second: Stock Logo_117
+  - first:
+      213: -2475866463729741236
+    second: Stock Logo_118
+  - first:
+      213: 241259563916579029
+    second: Stock Logo_119
+  - first:
+      213: -1389293504655855411
+    second: Stock Logo_120
+  - first:
+      213: -2927372105505388645
+    second: Stock Logo_121
+  - first:
+      213: -3785381900001226586
+    second: Stock Logo_122
+  - first:
+      213: -1954240079894034361
+    second: Stock Logo_123
+  - first:
+      213: 7984809657538990555
+    second: Stock Logo_124
+  - first:
+      213: -7016047190254282917
+    second: Stock Logo_125
+  - first:
+      213: 5445031625211929647
+    second: Stock Logo_126
+  - first:
+      213: -6976878349330303298
+    second: Stock Logo_127
+  - first:
+      213: 3586754063379072891
+    second: Stock Logo_128
+  - first:
+      213: 427017638382324032
+    second: Stock Logo_129
+  - first:
+      213: 4714775254476768051
+    second: Stock Logo_130
+  - first:
+      213: -5973712742873982478
+    second: Stock Logo_131
+  - first:
+      213: 1024203633388765783
+    second: Stock Logo_132
+  - first:
+      213: 5520032996849102526
+    second: Stock Logo_133
+  - first:
+      213: 6992286304271261183
+    second: Stock Logo_134
+  - first:
+      213: -495978743129972678
+    second: Stock Logo_135
+  - first:
+      213: -5023189546964769313
+    second: Stock Logo_136
+  - first:
+      213: 8384946168657442664
+    second: Stock Logo_137
+  - first:
+      213: -2507969765212640064
+    second: Stock Logo_138
+  - first:
+      213: 4104759889713808143
+    second: Stock Logo_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stock Logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eaee797cc8f9830800000000000000
+      internalID: 4080134576296341058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_1
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1353
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824cc1c921e9bd250800000000000000
+      internalID: 5970539533775455272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_2
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1208
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e5b59324f76b10800000000000000
+      internalID: 1974815395298011203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1018
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0302cd6c453b100800000000000000
+      internalID: 122534827942490343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 698
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf8a0804c5613640800000000000000
+      internalID: 5057935749136682932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_5
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 661
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fff54119292e7930800000000000000
+      internalID: 4142793963587633141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 626
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71062e3b3fa013ea0800000000000000
+      internalID: -5894918395439980521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c905622009b01230800000000000000
+      internalID: 3607586711751952834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf379c6f1baf86c0800000000000000
+      internalID: -4138901381076009010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_9
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b4f3caef8ab8930800000000000000
+      internalID: 4146593693689662285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_10
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1b547f3398e300800000000000000
+      internalID: 281636877455007139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 66
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a0f6db190faddc0800000000000000
+      internalID: -3613311242272306661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa850bdf6ec489d0800000000000000
+      internalID: -2772864490742117725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe961d2f2320830800000000000000
+      internalID: 4035844234554240945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879ddb6ef08f8b830800000000000000
+      internalID: 4087289409018124664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 69
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43fca72dc7f5ff0800000000000000
+      internalID: -45180227805039417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_16
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 64
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef4cf732bb83e50800000000000000
+      internalID: 6789382199402888797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 64
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e871044c589f40800000000000000
+      internalID: 5735435572608557602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bbdc8c106f36730800000000000000
+      internalID: 3991304182304717617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b45df6ec14350e40800000000000000
+      internalID: 5621957008581022897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 67
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2984faedca2750800000000000000
+      internalID: 6281059039330250253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372bff6c6f23c010800000000000000
+      internalID: 1207861267847128885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b3eadf04e5da00800000000000000
+      internalID: 780780867166648626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a95bb15b36ca200800000000000000
+      internalID: 192638513575205534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0509c910c4d7034a0800000000000000
+      internalID: -6615650087209234352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32557cd9bacd230a0800000000000000
+      internalID: -6903212649160944349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 59
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ef531d507a97b0800000000000000
+      internalID: -5216733673295976324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d7663ffeb596db0800000000000000
+      internalID: -4798202841847661267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0addff064d591cd70800000000000000
+      internalID: 9061688664639135136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232cd78b454a9f640800000000000000
+      internalID: 5114299535635366450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ad6a433a803f570800000000000000
+      internalID: 8499146418834299463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f4df67f981be90800000000000000
+      internalID: -7011671449012996464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a37bd761dd46b00800000000000000
+      internalID: 821024120756451856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d3c2df16ca39d0800000000000000
+      internalID: -2793702778847636639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985c3eb37bd282a0800000000000000
+      internalID: -6736580802433492837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece35038be6334f0800000000000000
+      internalID: -850214167279047456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5cc9d995789ff0800000000000000
+      internalID: -29144093933412675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 59
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb962fded58a7ee80800000000000000
+      internalID: -8149359879326111301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 58
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3026007746ccc50800000000000000
+      internalID: 6686830009008653223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 56
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d732d90965788e350800000000000000
+      internalID: 6046231305608045437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 58
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18442429938890c0800000000000000
+      internalID: -4568757128207775714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 58
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280efbd0d0cab72e0800000000000000
+      internalID: -2126917226937196414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0812e2e61a6600800000000000000
+      internalID: 462207075470544474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 58
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e3266e44ed9520800000000000000
+      internalID: 2710573576119117080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fa1be83fd1a7420800000000000000
+      internalID: 2628446264432373573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b0cf782ee244db0800000000000000
+      internalID: -4808666951645918400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_46
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 58
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126316e280302f20800000000000000
+      internalID: 3395767457801265688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d8f7224451fd20800000000000000
+      internalID: 3310519844209217627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c7de5d725f6bff0800000000000000
+      internalID: -20559596834948049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44080a52938661740800000000000000
+      internalID: 5122396220834218052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_50
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 59
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3cfe2bc212ca70800000000000000
+      internalID: 8845653281985018922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8fc3029c915d80800000000000000
+      internalID: -8263651690305057595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_52
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9566d10ac162cbd0800000000000000
+      internalID: -2611417313679350369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 58
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac1552a0408cb20800000000000000
+      internalID: 3154775980595333736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bed64604e66be70800000000000000
+      internalID: 9130606517382146884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da642c70b8f06ca00800000000000000
+      internalID: 776325075573032621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966663a66ac2bbb0800000000000000
+      internalID: -4921648900585658728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddb32a04e865c310800000000000000
+      internalID: 1424660185764576720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_58
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021fab3312b6f5630800000000000000
+      internalID: 3917967991181603104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_59
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c70c767c16746a0800000000000000
+      internalID: -6465091231000003542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c0144f3b9b861a0800000000000000
+      internalID: -6815993853477057427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_61
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaca0646c86729f0800000000000000
+      internalID: -493310433385854214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_62
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 58
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ad85569a95418f0800000000000000
+      internalID: -570732668684543414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_63
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91212478bb2796ec0800000000000000
+      internalID: -3573198679588072935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_64
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b8a924ffe65570800000000000000
+      internalID: 8455209182384666455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_65
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f38d7718e150310800000000000000
+      internalID: 1370535203014459264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602556c7db959af0800000000000000
+      internalID: -390234441649938332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6e7c80ae68cbdb0800000000000000
+      internalID: -4774793165191780683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 31
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5f5b4c86454080800000000000000
+      internalID: -9203872695087833529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb71d7b25f2a7410800000000000000
+      internalID: 1475543860235041739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a5e18d53d2e6510800000000000000
+      internalID: 1544221431517043229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_71
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a45295e2c5def90800000000000000
+      internalID: -6922775698064717164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1d457133cb5c20800000000000000
+      internalID: 3196362977738300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_73
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebf31a943179dfe0800000000000000
+      internalID: -1163774557961323540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_74
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7feceb60db02e000800000000000000
+      internalID: 63626334528401278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_75
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 30
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b69abddb23e5b0800000000000000
+      internalID: -5340376501813070420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_76
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7792cd4db0e929ae0800000000000000
+      internalID: -1543997948581631625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_77
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13f2e8afdb53cb0800000000000000
+      internalID: -4884789336988503617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_78
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 29
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05810361729ad04d0800000000000000
+      internalID: -3166688977630521264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_79
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 31
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d3e99b2a66d000800000000000000
+      internalID: 60352380514063201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_80
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 30
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab83a8435baa1c0800000000000000
+      internalID: -4491578441086747990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_81
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935979903ee8a58c0800000000000000
+      internalID: -4009735412450355911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc60134ff266f7c60800000000000000
+      internalID: 7818079834284820173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_83
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 30
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56000dcb01d642800800000000000000
+      internalID: 586713770119659621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 35
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7e65a98f3e5e80800000000000000
+      internalID: -8188037212094431974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_85
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd036a4f86a6551c0800000000000000
+      internalID: -4515586052355378977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4d693e57bd4ec80800000000000000
+      internalID: -8294263314333641498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_87
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382cf714b503b1740800000000000000
+      internalID: 5123742169563120259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa5df715d8bef90800000000000000
+      internalID: -6923284620975427748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_89
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 29
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b889f3e53caa5b0800000000000000
+      internalID: -5356253997242479769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_90
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 30
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de05160c06213fd50800000000000000
+      internalID: 6769774871621751021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_91
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284460b2067ed98a0800000000000000
+      internalID: -6296622303769377662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_92
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 29
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270565c375f11cd30800000000000000
+      internalID: 4449872366353666162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_93
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0625c47589921f0800000000000000
+      internalID: -1069155935813738282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_94
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 31
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db51e073c52ae50800000000000000
+      internalID: 6819114177321614630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_95
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc3d79b3d492ca40800000000000000
+      internalID: 5387031741359537338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_96
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2e26f2f5948c50800000000000000
+      internalID: 6666618219160022716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_97
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970673665ad2bf430800000000000000
+      internalID: 3817695297534386297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_98
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca26e55b40a4610800000000000000
+      internalID: 1606101394130119776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_99
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6557650784f69a20800000000000000
+      internalID: 3068909056847992172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_100
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6c9f0359992a40800000000000000
+      internalID: 5343971014875049422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_101
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471e0bfd70b330150800000000000000
+      internalID: 5837574447006015860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_102
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9f33e57f987c830800000000000000
+      internalID: 4091390482019776962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 30
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e896b938f6c27b00800000000000000
+      internalID: 824940451184679138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_104
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947515adb50a161f0800000000000000
+      internalID: -1053384521462753463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_105
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62a5f899bb65f930800000000000000
+      internalID: 4176362674335359598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_106
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae464db1a4baa0590800000000000000
+      internalID: -7707159477508348694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_107
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 30
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b3a0f5680621b70800000000000000
+      internalID: 8868256746482318107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_108
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495a16db6e4d0250800000000000000
+      internalID: 5912468110867847497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_109
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d9d60b570bb040800000000000000
+      internalID: 4664329926610638886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_110
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc5b55e310fd4c0800000000000000
+      internalID: -4260685355231622331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_111
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 29
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a150600cbcd14b0800000000000000
+      internalID: -5467990346962756973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_112
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b609f58b610cb0800000000000000
+      internalID: -4899516696449600734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_113
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 31
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef4191c83c96e310800000000000000
+      internalID: 1434005298943709162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_114
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 31
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684e4c915724ea00800000000000000
+      internalID: 784795466537519211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_115
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f35028d30a8910800000000000000
+      internalID: 1840287624524460907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00264cde1883569b0800000000000000
+      internalID: -5087598073354100224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_117
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06225345021b59410800000000000000
+      internalID: 1483286404698284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c421616a194f3add0800000000000000
+      internalID: -2475866463729741236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_119
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0d9ed8b40295300800000000000000
+      internalID: 241259563916579029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0fa361bec38bce0800000000000000
+      internalID: -1389293504655855411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_121
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c6f57492ef57d0800000000000000
+      internalID: -2927372105505388645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_122
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0db3fb73f977bc0800000000000000
+      internalID: -3785381900001226586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_123
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748c518500521e4e0800000000000000
+      internalID: -1954240079894034361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_124
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 11
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd158b4041ebfce60800000000000000
+      internalID: 7984809657538990555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_125
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b571489c04ef1ae90800000000000000
+      internalID: -7016047190254282917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_126
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2466830a63a09b40800000000000000
+      internalID: 5445031625211929647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_127
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6bd0b3b162d2f90800000000000000
+      internalID: -6976878349330303298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_128
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77066431d5b6c130800000000000000
+      internalID: 3586754063379072891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_129
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049ca9897421de500800000000000000
+      internalID: 427017638382324032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_130
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c3ee2d1f3e6140800000000000000
+      internalID: 4714775254476768051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_131
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f995c219eb191da0800000000000000
+      internalID: -5973712742873982478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524dc137c3b63e00800000000000000
+      internalID: 1024203633388765783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_133
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe20a5a3c81b9c40800000000000000
+      internalID: 5520032996849102526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_134
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffddae5d857990160800000000000000
+      internalID: 6992286304271261183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_135
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e79ff5fded19f0800000000000000
+      internalID: -495978743129972678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_136
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a5b598bb0a4ab0800000000000000
+      internalID: -5023189546964769313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_137
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86779937d105d5470800000000000000
+      internalID: 8384946168657442664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_138
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca41d49c6e13dd0800000000000000
+      internalID: -2507969765212640064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stock Logo_139
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c9aa2f5907f830800000000000000
+      internalID: 4104759889713808143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stock Logo_0: 4080134576296341058
+      Stock Logo_1: 5970539533775455272
+      Stock Logo_10: 281636877455007139
+      Stock Logo_100: 5343971014875049422
+      Stock Logo_101: 5837574447006015860
+      Stock Logo_102: 4091390482019776962
+      Stock Logo_103: 824940451184679138
+      Stock Logo_104: -1053384521462753463
+      Stock Logo_105: 4176362674335359598
+      Stock Logo_106: -7707159477508348694
+      Stock Logo_107: 8868256746482318107
+      Stock Logo_108: 5912468110867847497
+      Stock Logo_109: 4664329926610638886
+      Stock Logo_11: -3613311242272306661
+      Stock Logo_110: -4260685355231622331
+      Stock Logo_111: -5467990346962756973
+      Stock Logo_112: -4899516696449600734
+      Stock Logo_113: 1434005298943709162
+      Stock Logo_114: 784795466537519211
+      Stock Logo_115: 1840287624524460907
+      Stock Logo_116: -5087598073354100224
+      Stock Logo_117: 1483286404698284640
+      Stock Logo_118: -2475866463729741236
+      Stock Logo_119: 241259563916579029
+      Stock Logo_12: -2772864490742117725
+      Stock Logo_120: -1389293504655855411
+      Stock Logo_121: -2927372105505388645
+      Stock Logo_122: -3785381900001226586
+      Stock Logo_123: -1954240079894034361
+      Stock Logo_124: 7984809657538990555
+      Stock Logo_125: -7016047190254282917
+      Stock Logo_126: 5445031625211929647
+      Stock Logo_127: -6976878349330303298
+      Stock Logo_128: 3586754063379072891
+      Stock Logo_129: 427017638382324032
+      Stock Logo_13: 4035844234554240945
+      Stock Logo_130: 4714775254476768051
+      Stock Logo_131: -5973712742873982478
+      Stock Logo_132: 1024203633388765783
+      Stock Logo_133: 5520032996849102526
+      Stock Logo_134: 6992286304271261183
+      Stock Logo_135: -495978743129972678
+      Stock Logo_136: -5023189546964769313
+      Stock Logo_137: 8384946168657442664
+      Stock Logo_138: -2507969765212640064
+      Stock Logo_139: 4104759889713808143
+      Stock Logo_14: 4087289409018124664
+      Stock Logo_15: -45180227805039417
+      Stock Logo_16: 6789382199402888797
+      Stock Logo_17: 5735435572608557602
+      Stock Logo_18: 3991304182304717617
+      Stock Logo_19: 5621957008581022897
+      Stock Logo_2: 1974815395298011203
+      Stock Logo_20: 6281059039330250253
+      Stock Logo_21: 1207861267847128885
+      Stock Logo_22: 780780867166648626
+      Stock Logo_23: 192638513575205534
+      Stock Logo_24: -6615650087209234352
+      Stock Logo_25: -6903212649160944349
+      Stock Logo_26: -5216733673295976324
+      Stock Logo_27: -4798202841847661267
+      Stock Logo_28: 9061688664639135136
+      Stock Logo_29: 5114299535635366450
+      Stock Logo_3: 122534827942490343
+      Stock Logo_30: 8499146418834299463
+      Stock Logo_31: -7011671449012996464
+      Stock Logo_32: 821024120756451856
+      Stock Logo_33: -2793702778847636639
+      Stock Logo_34: -6736580802433492837
+      Stock Logo_35: -850214167279047456
+      Stock Logo_36: -29144093933412675
+      Stock Logo_37: -8149359879326111301
+      Stock Logo_38: 6686830009008653223
+      Stock Logo_39: 6046231305608045437
+      Stock Logo_4: 5057935749136682932
+      Stock Logo_40: -4568757128207775714
+      Stock Logo_41: -2126917226937196414
+      Stock Logo_42: 462207075470544474
+      Stock Logo_43: 2710573576119117080
+      Stock Logo_44: 2628446264432373573
+      Stock Logo_45: -4808666951645918400
+      Stock Logo_46: 3395767457801265688
+      Stock Logo_47: 3310519844209217627
+      Stock Logo_48: -20559596834948049
+      Stock Logo_49: 5122396220834218052
+      Stock Logo_5: 4142793963587633141
+      Stock Logo_50: 8845653281985018922
+      Stock Logo_51: -8263651690305057595
+      Stock Logo_52: -2611417313679350369
+      Stock Logo_53: 3154775980595333736
+      Stock Logo_54: 9130606517382146884
+      Stock Logo_55: 776325075573032621
+      Stock Logo_56: -4921648900585658728
+      Stock Logo_57: 1424660185764576720
+      Stock Logo_58: 3917967991181603104
+      Stock Logo_59: -6465091231000003542
+      Stock Logo_6: -5894918395439980521
+      Stock Logo_60: -6815993853477057427
+      Stock Logo_61: -493310433385854214
+      Stock Logo_62: -570732668684543414
+      Stock Logo_63: -3573198679588072935
+      Stock Logo_64: 8455209182384666455
+      Stock Logo_65: 1370535203014459264
+      Stock Logo_66: -390234441649938332
+      Stock Logo_67: -4774793165191780683
+      Stock Logo_68: -9203872695087833529
+      Stock Logo_69: 1475543860235041739
+      Stock Logo_7: 3607586711751952834
+      Stock Logo_70: 1544221431517043229
+      Stock Logo_71: -6922775698064717164
+      Stock Logo_72: 3196362977738300420
+      Stock Logo_73: -1163774557961323540
+      Stock Logo_74: 63626334528401278
+      Stock Logo_75: -5340376501813070420
+      Stock Logo_76: -1543997948581631625
+      Stock Logo_77: -4884789336988503617
+      Stock Logo_78: -3166688977630521264
+      Stock Logo_79: 60352380514063201
+      Stock Logo_8: -4138901381076009010
+      Stock Logo_80: -4491578441086747990
+      Stock Logo_81: -4009735412450355911
+      Stock Logo_82: 7818079834284820173
+      Stock Logo_83: 586713770119659621
+      Stock Logo_84: -8188037212094431974
+      Stock Logo_85: -4515586052355378977
+      Stock Logo_86: -8294263314333641498
+      Stock Logo_87: 5123742169563120259
+      Stock Logo_88: -6923284620975427748
+      Stock Logo_89: -5356253997242479769
+      Stock Logo_9: 4146593693689662285
+      Stock Logo_90: 6769774871621751021
+      Stock Logo_91: -6296622303769377662
+      Stock Logo_92: 4449872366353666162
+      Stock Logo_93: -1069155935813738282
+      Stock Logo_94: 6819114177321614630
+      Stock Logo_95: 5387031741359537338
+      Stock Logo_96: 6666618219160022716
+      Stock Logo_97: 3817695297534386297
+      Stock Logo_98: 1606101394130119776
+      Stock Logo_99: 3068909056847992172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
