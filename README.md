@@ -4,7 +4,7 @@
 ## Features
 • AI-generated dialogue creating unique puzzles  
 • Dynamic gameplay (different every run)  
-• Player interaction and UI system
+• Player interaction and UI system  
 • Designed UI and gameplay for mobile devices
 
 ## Tech Stack
