@@ -1,10 +1,11 @@
 # Mynex
-2D game featuring dynamic dialogue generation using a Large Language Model (OpenRouter API).
+2D mobile puzzle game featuring dynamic dialogue generation using a Large Language Model (OpenRouter API).
 
 ## Features
 • AI-generated dialogue creating unique puzzles  
 • Dynamic gameplay (different every run)  
-• Player interaction and UI system  
+• Player interaction and UI system
+• Designed UI and gameplay for mobile devices
 
 ## Tech Stack
 • Unity (C#)
@@ -14,6 +15,3 @@
 
 ## Demo
 https://youtube.com/tuo-video
-
-## How to run
-Open the project with Unity Hub and press Play.
