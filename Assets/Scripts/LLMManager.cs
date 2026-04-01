@@ -9,7 +9,7 @@ using UnityEngine.Networking;
 public static class LLMManager {
     public static string[] loaderAnswers = new string[9];
 
-    private static string apiKey = "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";
+    private static string apiKey = "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";
     private static string apiUrl = "https://openrouter.ai/api/v1/chat/completions";
 
     public static IEnumerator GetNPCResponse(string npcGuidelines, string userPrompt, System.Action<string> callback, int maxRetries = 3) {
@@ -22,7 +22,8 @@ public static class LLMManager {
             Debug.Log($"Tentativo {attempt} di {maxRetries}...");
 
             var requestBody = new {
-                model = "deepseek/deepseek-chat-v3.1:free", //il migliore, alcune volte da errori
+                model = "qwen/qwen3.6-plus-preview:free",
+                //model = "deepseek/deepseek-chat-v3.1:free", //il migliore, alcune volte da errori, morto
                 //model = "openai/gpt-oss-120b:free", //non funziona più
                 //model = "x-ai/grok-4-fast:free", //non funziona più
                 //model = "openai/gpt-oss-20b:free", //brutto tbh

@@ -32,9 +32,9 @@ public class LoaderCallback : MonoBehaviour {
         if (isFirstUpdate) {
             isFirstUpdate = false;
 
-            //StartCoroutine(DoWorkBeforeContinue());
+            StartCoroutine(DoWorkBeforeContinue());
 
-            StartCoroutine(FakeDialogue());
+            //StartCoroutine(FakeDialogue());
             //StartCoroutine(TestDialogue());
         }
     }
